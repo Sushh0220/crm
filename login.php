@@ -78,7 +78,7 @@ exit();
 		 <form id="login-form" class="login-form" action="" method="post">
 		 <div class="row">
 		 <div class="form-group col-md-10">
-            <label class="form-label">Email</label>
+            <label class="form-label">Mmail</label>
             <div class="controls">
 				<div class="input-with-icon  right">                                       
 					<i class=""></i>
